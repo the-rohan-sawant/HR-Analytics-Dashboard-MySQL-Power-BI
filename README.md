@@ -5,7 +5,7 @@ This project presents an **HR Employee Distribution Analysis** using **MySQL** f
 
 # Data Used
 
-- **Dataset:** HR Employee dataset containing over **22,000 records** from the year **2000–2020**
+- **Dataset:** HR Employee dataset containing over 22,000 records from the year 2000–2020
 - **Data Cleaning & Analysis:** MySQL Workbench
 - **Data Visualization:** Power BI
 
@@ -22,3 +22,18 @@ This project presents an **HR Employee Distribution Analysis** using **MySQL** f
 9. What is the employee distribution across locations by state?
 10. How has employee count changed over time based on hiring and terminations?
 11. What is the tenure distribution for each department?
+
+# Summary of Findings
+
+- The company has a higher number of male employees compared to female employees.
+- White employees represent the largest race group, while Native Hawaiian and American Indian groups are the smallest.
+- Employee ages range between 20 and 57 years.
+- Most employees fall within the 25–34 age group, followed by 35–44.
+- A larger proportion of employees work at headquarters compared to remote locations.
+- The average employment length for terminated employees is approximately 7 years.
+- Gender distribution across departments is relatively balanced, though male employees are slightly higher overall.
+- Marketing shows the highest turnover rate, followed by Training.
+- Research & Development, Support, and Legal departments show the lowest turnover.
+- The majority of employees are located in the state of Ohio.
+- Overall employee count shows a positive growth trend over the years.
+- Average departmental tenure is around 8 years, with Legal and Auditing having the highest tenure.
