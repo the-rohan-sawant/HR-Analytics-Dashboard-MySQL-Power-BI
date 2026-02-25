@@ -43,3 +43,9 @@ This project presents an **HR Employee Distribution Analysis** using **MySQL** f
 - MySQL (Data Cleaning , Querying & Analysis)
 - Power BI (Dashboard & Visualization)
 - GitHub (Project Hosting)
+
+# Dashboard Preview
+
+![HR Dashboard](https://github.com/user-attachments/assets/30c1aab5-30f0-4339-ad53-172cb7a33483)
+
+ 
