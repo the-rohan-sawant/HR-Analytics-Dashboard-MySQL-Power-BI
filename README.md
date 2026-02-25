@@ -37,3 +37,9 @@ This project presents an **HR Employee Distribution Analysis** using **MySQL** f
 - The majority of employees are located in the state of Ohio.
 - Overall employee count shows a positive growth trend over the years.
 - Average departmental tenure is around 8 years, with Legal and Auditing having the highest tenure.
+
+# Tools & Technologies
+
+- MySQL (Data Cleaning , Querying & Analysis)
+- Power BI (Dashboard & Visualization)
+- GitHub (Project Hosting)
